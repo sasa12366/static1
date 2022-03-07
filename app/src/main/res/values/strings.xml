@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Приложение для решения уравнения a*x-b=c</string>
+    <string name="title">Решить уравнение a*x-b=c</string>
+    <string name="a">Введите A</string>
+    <string name="b">Введите B</string>
+    <string name="c">Введите C</string>
+    <string name="calculate">Вычислить</string>
+</resources>
